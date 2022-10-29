@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  margin: 0;
+  
+  height: 100vh;
+}
+
+textarea {
+  display: block;
+  width: 300px;
+  height: 150px;
+}
